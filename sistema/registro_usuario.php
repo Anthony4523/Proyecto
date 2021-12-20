@@ -55,7 +55,7 @@
 				<label for="usuario">Usuario</label>
 				<input type="text" name="usuario" id="usuario" placeholder="Usuario">
 				<label for="clave">Clave</label>
-				<input type="password" name="clave" id="clave" placeholder="Clave de acceso">
+				<input type="password" name="clave" id="clave" placeholder="Escriba su clave de acceso, máximo 8 caracteres" maxlength="8">
 				<label for="rol" >Tipo de Usuario</label>
 
 <?php 
